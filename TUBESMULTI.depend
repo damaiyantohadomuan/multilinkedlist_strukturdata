@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1480523508 source:d:\tugas besar\tubes asd\tubesmulti\multilinkedlist.cpp
+	<iostream>
+	<stdlib.h>
+	"multilinkedlist.h"
+
+1479722000 source:d:\tugas besar\tubes asd\tubesmulti\main.cpp
+	<iostream>
+	"multilinkedlist.h"
+
+1479976816 d:\tugas besar\tubes asd\tubesmulti\multilinkedlist.h
+
